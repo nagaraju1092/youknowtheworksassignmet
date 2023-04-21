@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+    background-color: #CD7676;
+    font-family: "Roboto";
+}
+
+.heading {
+    font-size: 35px;
+    font-weight: 800;
+    font-family: "Roboto";
+    color: #251E5A;
+    padding: 5px;
+    text-align: center;
+}
+
+.para {
+    color: #251E5A;
+    font-size: 14px;
+    text-align: center;
+    padding: 2px;
+}
+
+.second-para {
+    text-align: start;
+    color: #251E5A;
+    font-size: 14px;
+}
+
+.second-para-1 {
+    font-weight: 800;
+}
+
+.para-1 {
+    text-align: start;
+    padding: 0px;
+}
+
+.para-2 {
+    margin: 10px;
+    text-align: start;
+    padding: 5px;
+}
+
+.new-para {
+    color: #251E5A;
+    font-size: 14px;
+    padding-right: 5px;
+}
+
+.dot {
+    padding: 3px;
+}
+
+.profile-container {
+    margin: 10px;
+}
+
+.interests {
+    margin-right: 50px;
+}
+
+.name-container {
+    margin: 10px;
+}
+
+.image-container {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.solid {
+    border-top: 3px solid #251E5A;
+    margin-left: 100px;
+    margin-right: 10px;
+}
